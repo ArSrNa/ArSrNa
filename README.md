@@ -8,8 +8,8 @@ Guangxi Nanning, China.
 - One of Tencent Cloud Developer Pioneer members
 - Major in Renderfarm and HPC
 - *With a strong passion for changing the world through codes*
-
-![1677989212237](image/README/1677989212237.png)
+<!-- 
+![1677989212237](image/README/1677989212237.png) -->
 
 ![bilibili](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=bilibili&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D24749747)
 
@@ -19,20 +19,11 @@ Guangxi Nanning, China.
 Something that makes me proud
 ## I've done
 
-2020
 - HPC-High Performance Compute（高性能计算）
 - Renderfarm（集群渲染）
 - Cloud A/V Communication（云音视频通信）
-  
-2021
-
-- Analog devices（模拟设备）
+- Analog devices（模拟）
 - CIAM（数字身份管控IDaaS）
-
-2022
-- Artificial Intelligence（人工智能）
-- XPC-Extreme HPC（超算）
-
 
 ## I'm doing
 
