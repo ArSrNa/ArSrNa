@@ -1,9 +1,9 @@
 # 强势动力来自隔壁的CNB
 
-目前仅在github同步仓库，最新的项目请前往：[https://cnb.cool/u/arsrna](https://cnb.cool/u/arsrna)
+目前github只同步仓库，最新的项目请前往：[https://cnb.cool/u/arsrna](https://cnb.cool/u/arsrna)
 
-# Supercharged by CNB nearby.
-
-The repository is only synchronized on GitHub currently. For the latest project updates, please visit: [https://cnb.cool/u/arsrna](https://cnb.cool/u/arsrna)
-
-Passion for Change, 用心改变.
+# 接下来的活动
+- 2026-1-30 杭州·赛友会
+- 2026-1-31 上海·腾讯CNBMeetup
+- 2026-3-21 成都·腾讯CNBMeetup
+- 2026-4-29 广州·腾讯CNBMeetup
