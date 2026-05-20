@@ -10,3 +10,4 @@
 - 2026-4-25 西安·腾讯CNBMeetup
 - 2026-4-29 广州·腾讯CNBMeetup
 - 2026-5-23 重庆·腾讯CNBMeetup
+- 2026-5-30 北京·腾讯CNBMeetup
